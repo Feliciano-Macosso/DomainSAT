@@ -95,6 +95,7 @@ streamlit run DomainSAT.py
 Then the toolbox will launch in your browser. The first startup may take some time (approximately 20 seconds).
 
 ---
+
 ### 👉Upload your datasets
 
 Upload two CSV files:
@@ -112,6 +113,7 @@ For convenience, several **sample datasets** are provided in the folder **`Exp D
 <p align="center">
   <img src="images/Data.png" width="320" height="350">
 </p>
+
 ---
 
 ### 👉Choose a domain shift-detection method
@@ -131,6 +133,7 @@ Adjust method-specific parameters (p-value threshold, distance threshold, AUC th
 <p align="center">
   <img src="images/Threshold.png" width="520" height="350">
 </p>
+
 ---
 
 ### 👉Run the analysis
@@ -143,6 +146,7 @@ Click "Run Shift Detection" button, DomainSAT will compute shift metrics and dis
 <p align="center">
   <img src="images/Result.png" width="540" height="300">
 </p>
+
 ---
 
 ### 👉Visualize the shift
