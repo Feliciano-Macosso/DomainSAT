@@ -13,7 +13,7 @@
 
 ## ✨ Overview
 
-**DomainSAT** is a simple, powerful, and interactive **domain shift analysis toolbox** built in **Python**.
+**DomainSAT** is a simple, powerful, and interactive **domain (data) shift analysis toolbox** built in **Python**.
 It runs on macOS, Linux, and Windows directly through a browser-based interface, with **no installation and no coding required**. It helps researchers and practitioners easily detect, quantify, and visualize domain shift across datasets. 
 
 ### 🔎 **Shift Detection Methods**
